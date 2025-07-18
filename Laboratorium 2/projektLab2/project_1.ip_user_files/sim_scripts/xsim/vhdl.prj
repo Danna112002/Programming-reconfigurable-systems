@@ -1,0 +1,7 @@
+vhdl xil_defaultlib  \
+"../../../../licznik.vhd" \
+"../../../../zegar.vhd" \
+"../../../../zegar_tb.vhd" \
+
+# Do not sort compile order
+nosort

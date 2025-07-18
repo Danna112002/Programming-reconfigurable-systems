@@ -1,0 +1,3 @@
+licznik.vhd,vhdl,xil_defaultlib,../../../../licznik.vhd,
+zegar.vhd,vhdl,xil_defaultlib,../../../../zegar.vhd,
+zegar_tb.vhd,vhdl,xil_defaultlib,../../../../zegar_tb.vhd,

@@ -1,0 +1,7 @@
+Running: xsim.dir/LICZNIK_TB_behav/xsimk -simmode gui -wdb LICZNIK_TB_behav.wdb -simrunnum 0 -socket 48157
+Design successfully loaded
+Design Loading Memory Usage: 191484 KB (Peak: 191484 KB)
+Design Loading CPU Usage: 1090 ms
+Simulation completed
+Simulation Memory Usage: 273220 KB (Peak: 330752 KB)
+Simulation CPU Usage: 1110 ms
